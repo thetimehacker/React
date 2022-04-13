@@ -71,6 +71,218 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "my-app/.gitignore",
+			"settings":
+			{
+				"buffer_size": 310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    ad9f390 first commint\n\n  UNSTAGED:\n  - my_app_project.sublime-project\n  - my_app_project.sublime-workspace\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"line_ending": "Unix",
+				"name": "STATUS: react",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"gs_new_content_and_regions",
+					{
+						"content": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    \n\n    Your working directory is clean.\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+						"nuke_cursors": false,
+						"regions":
+						{
+							"branch_status":
+							[
+								12,
+								56
+							],
+							"git_root":
+							[
+								68,
+								85
+							],
+							"help":
+							[
+								136,
+								1722
+							],
+							"no_status_message":
+							[
+								98,
+								136
+							]
+						}
+					},
+					"AQAAAAAAAAAAAAAAuwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"gs_new_content_and_regions",
+					{
+						"content": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    ad9f390 first commint\n\n    Your working directory is clean.\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+						"nuke_cursors": false,
+						"regions":
+						{
+							"branch_status":
+							[
+								12,
+								56
+							],
+							"git_root":
+							[
+								68,
+								85
+							],
+							"head":
+							[
+								97,
+								118
+							],
+							"help":
+							[
+								157,
+								1743
+							],
+							"no_status_message":
+							[
+								119,
+								157
+							]
+						}
+					},
+					"AQAAAAAAAAAAAAAA0AYAAAAAAAC7BgAACiAgQlJBTkNIOiAgT24gYnJhbmNoIGBtYXN0ZXJgIHRyYWNraW5nIGBvcmlnaW4vbWFzdGVyYC4KICBST09UOiAgICB+L0RvY3VtZW50cy9yZWFjdAogIEhFQUQ6ICAgIAoKICAgIFlvdXIgd29ya2luZyBkaXJlY3RvcnkgaXMgY2xlYW4uCgogICMjIyMjIyMjIyMjIyMjIyMjIyMgICAgICAgICAgICAgICAgICAgIyMjIyMjIyMjIyMjIyMjCiAgIyMgU0VMRUNURUQgRklMRSAjIyAgICAgICAgICAgICAgICAgICAjIyBBTEwgRklMRVMgIyMKICAjIyMjIyMjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMjIwoKICBbb10gb3BlbiBmaWxlICAgICAgICAgICAgICAgICAgICAgICAgIFthXSBzdGFnZSBhbGwgdW5zdGFnZWQgZmlsZXMKICBbc10gc3RhZ2UgZmlsZSAgICAgICAgICAgICAgICAgICAgICAgIFtBXSBzdGFnZSBhbGwgdW5zdGFnZWQgYW5kIHVudHJhY2tlZCBmaWxlcwogIFt1XSB1bnN0YWdlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgW1VdIHVuc3RhZ2UgYWxsIHN0YWdlZCBmaWxlcwogIFtkXSBkaXNjYXJkIGNoYW5nZXMgdG8gZmlsZSAgICAgICAgICAgW0RdIGRpc2NhcmQgYWxsIHVuc3RhZ2VkIGNoYW5nZXMKICBbaF0gb3BlbiBmaWxlIG9uIHJlbW90ZQogIFtNXSBsYXVuY2ggZXh0ZXJuYWwgbWVyZ2UgdG9vbAoKICBbbF0gZGlmZiBmaWxlIGlubGluZSAgICAgICAgICAgICAgICAgIFtmXSBkaWZmIGFsbCBmaWxlcwogIFtlXSBkaWZmIGZpbGUgICAgICAgICAgICAgICAgICAgICAgICAgW0ZdIGRpZmYgYWxsIGNhY2hlZCBmaWxlcwoKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKICAjIyBBQ1RJT05TICMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIFNUQVNIRVMgIyMKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKCiAgW2NdIGNvbW1pdCAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bYV0gYXBwbHkgc3Rhc2gKICBbQ10gY29tbWl0LCBpbmNsdWRpbmcgdW5zdGFnZWQgICAgICAgIFt0XVtwXSBwb3Agc3Rhc2gKICBbbV0gYW1lbmQgcHJldmlvdXMgY29tbWl0ICAgICAgICAgICAgIFt0XVtzXSBzaG93IHN0YXNoCiAgW3BdIHB1c2ggY3VycmVudCBicmFuY2ggICAgICAgICAgICAgICBbdF1bY10gY3JlYXRlIHN0YXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bdV0gY3JlYXRlIHN0YXNoIGluY2x1ZGluZyB1bnRyYWNrZWQgZmlsZXMKICBbaV0gaWdub3JlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgIFt0XVtnXSBjcmVhdGUgc3Rhc2ggb2Ygc3RhZ2VkIGNoYW5nZXMgb25seQogIFtJXSBpZ25vcmUgcGF0dGVybiAgICAgICAgICAgICAgICAgICAgW3RdW2RdIGRyb3Agc3Rhc2gKCiAgW0JdIGFib3J0IG1lcmdlCgogICMjIyMjIyMjIyMjCiAgIyMgT1RIRVIgIyMKICAjIyMjIyMjIyMjIwoKICBbZ10gICAgICAgICBzaG93IGdyYXBoIHJlcG8gaGlzdG9yeQogIFs/XSAgICAgICAgIHRvZ2dsZSB0aGlzIGhlbHAgbWVudQogIFt0YWJdICAgICAgIHRyYW5zaXRpb24gdG8gbmV4dCBkYXNoYm9hcmQKICBbU0hJRlQtdGFiXSB0cmFuc2l0aW9uIHRvIHByZXZpb3VzIGRhc2hib2FyZAogIFsuXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIG5leHQgZmlsZQogIFssXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIHByZXZpb3VzIGZpbGUKCi0KCg",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"gs_new_content_and_regions",
+					{
+						"content": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    ad9f390 first commint\n\n    Your working directory is clean.\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+						"nuke_cursors": false,
+						"regions":
+						{
+							"branch_status":
+							[
+								12,
+								56
+							],
+							"git_root":
+							[
+								68,
+								85
+							],
+							"head":
+							[
+								97,
+								118
+							],
+							"help":
+							[
+								157,
+								1743
+							],
+							"no_status_message":
+							[
+								119,
+								157
+							]
+						}
+					},
+					"AQAAAAAAAAAAAAAA0AYAAAAAAADQBgAACiAgQlJBTkNIOiAgT24gYnJhbmNoIGBtYXN0ZXJgIHRyYWNraW5nIGBvcmlnaW4vbWFzdGVyYC4KICBST09UOiAgICB+L0RvY3VtZW50cy9yZWFjdAogIEhFQUQ6ICAgIGFkOWYzOTAgZmlyc3QgY29tbWludAoKICAgIFlvdXIgd29ya2luZyBkaXJlY3RvcnkgaXMgY2xlYW4uCgogICMjIyMjIyMjIyMjIyMjIyMjIyMgICAgICAgICAgICAgICAgICAgIyMjIyMjIyMjIyMjIyMjCiAgIyMgU0VMRUNURUQgRklMRSAjIyAgICAgICAgICAgICAgICAgICAjIyBBTEwgRklMRVMgIyMKICAjIyMjIyMjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMjIwoKICBbb10gb3BlbiBmaWxlICAgICAgICAgICAgICAgICAgICAgICAgIFthXSBzdGFnZSBhbGwgdW5zdGFnZWQgZmlsZXMKICBbc10gc3RhZ2UgZmlsZSAgICAgICAgICAgICAgICAgICAgICAgIFtBXSBzdGFnZSBhbGwgdW5zdGFnZWQgYW5kIHVudHJhY2tlZCBmaWxlcwogIFt1XSB1bnN0YWdlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgW1VdIHVuc3RhZ2UgYWxsIHN0YWdlZCBmaWxlcwogIFtkXSBkaXNjYXJkIGNoYW5nZXMgdG8gZmlsZSAgICAgICAgICAgW0RdIGRpc2NhcmQgYWxsIHVuc3RhZ2VkIGNoYW5nZXMKICBbaF0gb3BlbiBmaWxlIG9uIHJlbW90ZQogIFtNXSBsYXVuY2ggZXh0ZXJuYWwgbWVyZ2UgdG9vbAoKICBbbF0gZGlmZiBmaWxlIGlubGluZSAgICAgICAgICAgICAgICAgIFtmXSBkaWZmIGFsbCBmaWxlcwogIFtlXSBkaWZmIGZpbGUgICAgICAgICAgICAgICAgICAgICAgICAgW0ZdIGRpZmYgYWxsIGNhY2hlZCBmaWxlcwoKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKICAjIyBBQ1RJT05TICMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIFNUQVNIRVMgIyMKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKCiAgW2NdIGNvbW1pdCAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bYV0gYXBwbHkgc3Rhc2gKICBbQ10gY29tbWl0LCBpbmNsdWRpbmcgdW5zdGFnZWQgICAgICAgIFt0XVtwXSBwb3Agc3Rhc2gKICBbbV0gYW1lbmQgcHJldmlvdXMgY29tbWl0ICAgICAgICAgICAgIFt0XVtzXSBzaG93IHN0YXNoCiAgW3BdIHB1c2ggY3VycmVudCBicmFuY2ggICAgICAgICAgICAgICBbdF1bY10gY3JlYXRlIHN0YXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bdV0gY3JlYXRlIHN0YXNoIGluY2x1ZGluZyB1bnRyYWNrZWQgZmlsZXMKICBbaV0gaWdub3JlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgIFt0XVtnXSBjcmVhdGUgc3Rhc2ggb2Ygc3RhZ2VkIGNoYW5nZXMgb25seQogIFtJXSBpZ25vcmUgcGF0dGVybiAgICAgICAgICAgICAgICAgICAgW3RdW2RdIGRyb3Agc3Rhc2gKCiAgW0JdIGFib3J0IG1lcmdlCgogICMjIyMjIyMjIyMjCiAgIyMgT1RIRVIgIyMKICAjIyMjIyMjIyMjIwoKICBbZ10gICAgICAgICBzaG93IGdyYXBoIHJlcG8gaGlzdG9yeQogIFs/XSAgICAgICAgIHRvZ2dsZSB0aGlzIGhlbHAgbWVudQogIFt0YWJdICAgICAgIHRyYW5zaXRpb24gdG8gbmV4dCBkYXNoYm9hcmQKICBbU0hJRlQtdGFiXSB0cmFuc2l0aW9uIHRvIHByZXZpb3VzIGRhc2hib2FyZAogIFsuXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIG5leHQgZmlsZQogIFssXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIHByZXZpb3VzIGZpbGUKCi0KCg",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"gs_new_content_and_regions",
+					{
+						"content": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    ad9f390 first commint\n\n  UNSTAGED:\n  - my_app_project.sublime-project\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+						"nuke_cursors": false,
+						"regions":
+						{
+							"branch_status":
+							[
+								12,
+								56
+							],
+							"git_root":
+							[
+								68,
+								85
+							],
+							"head":
+							[
+								97,
+								118
+							],
+							"help":
+							[
+								167,
+								1753
+							],
+							"unstaged_files":
+							[
+								119,
+								167
+							]
+						}
+					},
+					"AQAAAAAAAAAAAAAA2gYAAAAAAADQBgAACiAgQlJBTkNIOiAgT24gYnJhbmNoIGBtYXN0ZXJgIHRyYWNraW5nIGBvcmlnaW4vbWFzdGVyYC4KICBST09UOiAgICB+L0RvY3VtZW50cy9yZWFjdAogIEhFQUQ6ICAgIGFkOWYzOTAgZmlyc3QgY29tbWludAoKICAgIFlvdXIgd29ya2luZyBkaXJlY3RvcnkgaXMgY2xlYW4uCgogICMjIyMjIyMjIyMjIyMjIyMjIyMgICAgICAgICAgICAgICAgICAgIyMjIyMjIyMjIyMjIyMjCiAgIyMgU0VMRUNURUQgRklMRSAjIyAgICAgICAgICAgICAgICAgICAjIyBBTEwgRklMRVMgIyMKICAjIyMjIyMjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMjIwoKICBbb10gb3BlbiBmaWxlICAgICAgICAgICAgICAgICAgICAgICAgIFthXSBzdGFnZSBhbGwgdW5zdGFnZWQgZmlsZXMKICBbc10gc3RhZ2UgZmlsZSAgICAgICAgICAgICAgICAgICAgICAgIFtBXSBzdGFnZSBhbGwgdW5zdGFnZWQgYW5kIHVudHJhY2tlZCBmaWxlcwogIFt1XSB1bnN0YWdlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgW1VdIHVuc3RhZ2UgYWxsIHN0YWdlZCBmaWxlcwogIFtkXSBkaXNjYXJkIGNoYW5nZXMgdG8gZmlsZSAgICAgICAgICAgW0RdIGRpc2NhcmQgYWxsIHVuc3RhZ2VkIGNoYW5nZXMKICBbaF0gb3BlbiBmaWxlIG9uIHJlbW90ZQogIFtNXSBsYXVuY2ggZXh0ZXJuYWwgbWVyZ2UgdG9vbAoKICBbbF0gZGlmZiBmaWxlIGlubGluZSAgICAgICAgICAgICAgICAgIFtmXSBkaWZmIGFsbCBmaWxlcwogIFtlXSBkaWZmIGZpbGUgICAgICAgICAgICAgICAgICAgICAgICAgW0ZdIGRpZmYgYWxsIGNhY2hlZCBmaWxlcwoKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKICAjIyBBQ1RJT05TICMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIFNUQVNIRVMgIyMKICAjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMKCiAgW2NdIGNvbW1pdCAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bYV0gYXBwbHkgc3Rhc2gKICBbQ10gY29tbWl0LCBpbmNsdWRpbmcgdW5zdGFnZWQgICAgICAgIFt0XVtwXSBwb3Agc3Rhc2gKICBbbV0gYW1lbmQgcHJldmlvdXMgY29tbWl0ICAgICAgICAgICAgIFt0XVtzXSBzaG93IHN0YXNoCiAgW3BdIHB1c2ggY3VycmVudCBicmFuY2ggICAgICAgICAgICAgICBbdF1bY10gY3JlYXRlIHN0YXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbdF1bdV0gY3JlYXRlIHN0YXNoIGluY2x1ZGluZyB1bnRyYWNrZWQgZmlsZXMKICBbaV0gaWdub3JlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgIFt0XVtnXSBjcmVhdGUgc3Rhc2ggb2Ygc3RhZ2VkIGNoYW5nZXMgb25seQogIFtJXSBpZ25vcmUgcGF0dGVybiAgICAgICAgICAgICAgICAgICAgW3RdW2RdIGRyb3Agc3Rhc2gKCiAgW0JdIGFib3J0IG1lcmdlCgogICMjIyMjIyMjIyMjCiAgIyMgT1RIRVIgIyMKICAjIyMjIyMjIyMjIwoKICBbZ10gICAgICAgICBzaG93IGdyYXBoIHJlcG8gaGlzdG9yeQogIFs/XSAgICAgICAgIHRvZ2dsZSB0aGlzIGhlbHAgbWVudQogIFt0YWJdICAgICAgIHRyYW5zaXRpb24gdG8gbmV4dCBkYXNoYm9hcmQKICBbU0hJRlQtdGFiXSB0cmFuc2l0aW9uIHRvIHByZXZpb3VzIGRhc2hib2FyZAogIFsuXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIG5leHQgZmlsZQogIFssXSAgICAgICAgIG1vdmUgY3Vyc29yIHRvIHByZXZpb3VzIGZpbGUKCi0KCg",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"gs_new_content_and_regions",
+					{
+						"content": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Documents/react\n  HEAD:    ad9f390 first commint\n\n  UNSTAGED:\n  - my_app_project.sublime-project\n  - my_app_project.sublime-workspace\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [g]         show graph repo history\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+						"nuke_cursors": false,
+						"regions":
+						{
+							"branch_status":
+							[
+								12,
+								56
+							],
+							"git_root":
+							[
+								68,
+								85
+							],
+							"head":
+							[
+								97,
+								118
+							],
+							"help":
+							[
+								204,
+								1790
+							],
+							"unstaged_files":
+							[
+								119,
+								204
+							]
+						}
+					},
+					"AQAAAAAAAAAAAAAA/wYAAAAAAADaBgAACiAgQlJBTkNIOiAgT24gYnJhbmNoIGBtYXN0ZXJgIHRyYWNraW5nIGBvcmlnaW4vbWFzdGVyYC4KICBST09UOiAgICB+L0RvY3VtZW50cy9yZWFjdAogIEhFQUQ6ICAgIGFkOWYzOTAgZmlyc3QgY29tbWludAoKICBVTlNUQUdFRDoKICAtIG15X2FwcF9wcm9qZWN0LnN1YmxpbWUtcHJvamVjdAoKICAjIyMjIyMjIyMjIyMjIyMjIyMjICAgICAgICAgICAgICAgICAgICMjIyMjIyMjIyMjIyMjIwogICMjIFNFTEVDVEVEIEZJTEUgIyMgICAgICAgICAgICAgICAgICAgIyMgQUxMIEZJTEVTICMjCiAgIyMjIyMjIyMjIyMjIyMjIyMjIyAgICAgICAgICAgICAgICAgICAjIyMjIyMjIyMjIyMjIyMKCiAgW29dIG9wZW4gZmlsZSAgICAgICAgICAgICAgICAgICAgICAgICBbYV0gc3RhZ2UgYWxsIHVuc3RhZ2VkIGZpbGVzCiAgW3NdIHN0YWdlIGZpbGUgICAgICAgICAgICAgICAgICAgICAgICBbQV0gc3RhZ2UgYWxsIHVuc3RhZ2VkIGFuZCB1bnRyYWNrZWQgZmlsZXMKICBbdV0gdW5zdGFnZSBmaWxlICAgICAgICAgICAgICAgICAgICAgIFtVXSB1bnN0YWdlIGFsbCBzdGFnZWQgZmlsZXMKICBbZF0gZGlzY2FyZCBjaGFuZ2VzIHRvIGZpbGUgICAgICAgICAgIFtEXSBkaXNjYXJkIGFsbCB1bnN0YWdlZCBjaGFuZ2VzCiAgW2hdIG9wZW4gZmlsZSBvbiByZW1vdGUKICBbTV0gbGF1bmNoIGV4dGVybmFsIG1lcmdlIHRvb2wKCiAgW2xdIGRpZmYgZmlsZSBpbmxpbmUgICAgICAgICAgICAgICAgICBbZl0gZGlmZiBhbGwgZmlsZXMKICBbZV0gZGlmZiBmaWxlICAgICAgICAgICAgICAgICAgICAgICAgIFtGXSBkaWZmIGFsbCBjYWNoZWQgZmlsZXMKCiAgIyMjIyMjIyMjIyMjIyAgICAgICAgICAgICAgICAgICAgICAgICAjIyMjIyMjIyMjIyMjCiAgIyMgQUNUSU9OUyAjIyAgICAgICAgICAgICAgICAgICAgICAgICAjIyBTVEFTSEVTICMjCiAgIyMjIyMjIyMjIyMjIyAgICAgICAgICAgICAgICAgICAgICAgICAjIyMjIyMjIyMjIyMjCgogIFtjXSBjb21taXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3RdW2FdIGFwcGx5IHN0YXNoCiAgW0NdIGNvbW1pdCwgaW5jbHVkaW5nIHVuc3RhZ2VkICAgICAgICBbdF1bcF0gcG9wIHN0YXNoCiAgW21dIGFtZW5kIHByZXZpb3VzIGNvbW1pdCAgICAgICAgICAgICBbdF1bc10gc2hvdyBzdGFzaAogIFtwXSBwdXNoIGN1cnJlbnQgYnJhbmNoICAgICAgICAgICAgICAgW3RdW2NdIGNyZWF0ZSBzdGFzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3RdW3VdIGNyZWF0ZSBzdGFzaCBpbmNsdWRpbmcgdW50cmFja2VkIGZpbGVzCiAgW2ldIGlnbm9yZSBmaWxlICAgICAgICAgICAgICAgICAgICAgICBbdF1bZ10gY3JlYXRlIHN0YXNoIG9mIHN0YWdlZCBjaGFuZ2VzIG9ubHkKICBbSV0gaWdub3JlIHBhdHRlcm4gICAgICAgICAgICAgICAgICAgIFt0XVtkXSBkcm9wIHN0YXNoCgogIFtCXSBhYm9ydCBtZXJnZQoKICAjIyMjIyMjIyMjIwogICMjIE9USEVSICMjCiAgIyMjIyMjIyMjIyMKCiAgW2ddICAgICAgICAgc2hvdyBncmFwaCByZXBvIGhpc3RvcnkKICBbP10gICAgICAgICB0b2dnbGUgdGhpcyBoZWxwIG1lbnUKICBbdGFiXSAgICAgICB0cmFuc2l0aW9uIHRvIG5leHQgZGFzaGJvYXJkCiAgW1NISUZULXRhYl0gdHJhbnNpdGlvbiB0byBwcmV2aW91cyBkYXNoYm9hcmQKICBbLl0gICAgICAgICBtb3ZlIGN1cnNvciB0byBuZXh0IGZpbGUKICBbLF0gICAgICAgICBtb3ZlIGN1cnNvciB0byBwcmV2aW91cyBmaWxlCgotCgo",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -85,6 +297,10 @@
 		[
 			[
 				"status",
+				"git: status"
+			],
+			[
+				"stat",
 				"git: status"
 			],
 			[
@@ -145,10 +361,17 @@
 	"expanded_folders":
 	[
 		"/home/shubhamkumarrawat/Documents/react/my-app",
-		"/home/shubhamkumarrawat/Documents/react/my-app/src"
+		"/home/shubhamkumarrawat/Documents/react/my-app/public"
 	],
 	"file_history":
 	[
+		"/home/shubhamkumarrawat/Documents/react/my-app/.gitignore",
+		"/home/shubhamkumarrawat/Documents/react/my-app/public/manifest.json",
+		"/home/shubhamkumarrawat/Documents/react/my-app/public/robots.txt",
+		"/home/shubhamkumarrawat/Documents/react/my-app/public/favicon.ico",
+		"/home/shubhamkumarrawat/Documents/react/my-app/src/App.css",
+		"/home/shubhamkumarrawat/Documents/react/my-app/src/index.js",
+		"/home/shubhamkumarrawat/Documents/react/my-app/src/index.css",
 		"/opt/lampp/htdocs/project/ajax/signup.php",
 		"/opt/lampp/htdocs/project/ajax/login.php",
 		"/opt/lampp/htdocs/project/index.php",
@@ -205,6 +428,72 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "my-app/.gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": false,
+							"git_savvy.help_hidden": false,
+							"git_savvy.interface": "status",
+							"git_savvy.repo_path": "/home/shubhamkumarrawat/Documents/react",
+							"git_savvy.status_view": true,
+							"git_savvy.tabbable": true,
+							"result_base_dir": "/home/shubhamkumarrawat/Documents/react",
+							"result_file_regex": "^(?:    .+ -> |  [ -] (?!\\(\\d+\\) ))(?!Your working directory is clean\\.)(\\S.*)$",
+							"syntax": "Packages/GitSavvy/syntax/status.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
